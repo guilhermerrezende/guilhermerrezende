@@ -1,6 +1,6 @@
 ### Prazer, sou o Guilherme Rezende👋
 
-- 💻 Cursando ensino superior em Eng. de Software
+- 💻 Ensino superior em Eng. de Software Completo.
 - 📚 Estudando Python e JavaScript 
 - 📈 Em busca de novas oportunidades 
 - 🏆 Desejo me tornar DEV. fULL STACK 
